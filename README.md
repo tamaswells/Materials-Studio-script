@@ -23,3 +23,6 @@ Import '*.xtd' file, unfix Cartesian position of X, Y and Z and then Export as a
 
 ## CreateMoleAndGeomOpt.pl
 Create a new molecule, Ethanol, and then optimize structure of Ethanol using COMPASS Forcefield.
+
+## XTD2XYZ.pl
+modified from http://sobereva.com/143
